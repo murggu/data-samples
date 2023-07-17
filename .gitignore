@@ -4,3 +4,4 @@
 *.tfstate.*
 
 shared-hms/terraform
+.vscode
