@@ -1,0 +1,16 @@
+terraform {
+  # backend "azurerm" {}
+  required_providers {
+    azurerm = {
+      version = "= 3.53.0"
+    }
+  }
+}
+
+provider "azurerm" {
+  features {}
+}
+
+data "http" "ip" {
+  url = "https://ifconfig.me"
+}
