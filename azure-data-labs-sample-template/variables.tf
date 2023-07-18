@@ -13,7 +13,7 @@ variable "prefix" {
 variable "postfix" {
   type        = string
   description = "Postfix for module names"
-  default     = "sample01"
+  default     = "sample02"
 }
 
 # Feature flags
