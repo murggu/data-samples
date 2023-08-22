@@ -7,7 +7,7 @@ variable "location" {
 variable "prefix" {
   type        = string
   description = "Prefix for module names"
-  default     = "fab"
+  default     = "test"
 }
 
 variable "postfix" {
