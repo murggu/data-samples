@@ -7,7 +7,6 @@ Misc repo containing data samples:
 
 **Blogs**
 - [blog-fabric-spark-tables](https://medium.com/@murggu/creating-managed-and-external-spark-tables-in-fabric-lakehouse-ef6212e75e81)
-- [blog-fabric-spark-hms-catalog-migration](https://medium.com/@murggu/migrating-spark-catalog-to-fabric-lakehouse-cc8c14f0f0e1)
 - [blog-fabric-capacity-terraform](https://medium.com/@murggu/deploying-microsoft-fabric-azure-capacity-using-terraform-8dfcbab16f64)
 - [blog-hdinsight-hudi](https://murggu.medium.com/apache-hudi-on-hdinsight-8d981269a97a)
 - [blog-shared-hms-synapse-databricks-hdinsight](https://murggu.medium.com/using-a-shared-hive-metastore-across-azure-synapse-hdinsight-and-databricks-72c53acda778)
