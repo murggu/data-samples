@@ -1,4 +1,4 @@
-# azure-data-samples
+# data-samples
 
 Misc repo containing data samples:
 
