@@ -25,5 +25,5 @@ variable "sku" {
 variable "admin_email" {
   type        = string
   description = "Admin email address"
-  default     = "aimurg@microsoft.com"
+  default     = "<>"
 }
