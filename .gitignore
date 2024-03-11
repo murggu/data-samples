@@ -2,6 +2,7 @@
 .terraform.*
 *.tfstate
 *.tfstate.*
+*.tfvars
 
 shared-hms/terraform
 .vscode
