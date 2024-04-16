@@ -1,10 +1,10 @@
 {
-    "status_code": 201,
-    "response": {
-      "id": "00000000-0000-0000-0000-000000000000",
-      "type": "DataPipeline",
-      "displayName": "pip_rest_api_1",
-      "description": "fabric rest api 101",
-      "workspaceId": "00000000-0000-0000-0000-000000000000"
-    }
+  "status_code": 201,
+  "response": {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "DataPipeline",
+    "displayName": "pip_rest_api_1",
+    "description": "fabric rest api 101",
+    "workspaceId": "00000000-0000-0000-0000-000000000000"
   }
+}
