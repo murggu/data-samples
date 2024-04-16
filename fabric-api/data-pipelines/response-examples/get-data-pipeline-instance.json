@@ -1,0 +1,14 @@
+{
+    "status_code": 200,
+    "response": {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "itemId": "00000000-0000-0000-0000-000000000000",
+      "jobType": "Pipeline",
+      "invokeType": "Manual",
+      "status": "Completed",
+      "failureReason": null,
+      "rootActivityId": "00000000-0000-0000-0000-000000000000",
+      "startTimeUtc": "2024-04-17T12:23:27.6218197",
+      "endTimeUtc": "2024-04-17T12:25:00.2933333"
+    }
+  }

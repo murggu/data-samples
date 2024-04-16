@@ -1,0 +1,14 @@
+{
+    "status_code": 200,
+    "response": {
+      "definition": {
+        "parts": [
+          {
+            "path": "pipeline-content.json",
+            "payload": "ewogICJwcm9wZXJ0aWVzIjogewogICAgImFjdGl2aXRpZXMiOiBbXSwKICAgICJhbm5vdGF0aW9ucyI6IFtdCiAgfQp9",
+            "payloadType": "InlineBase64"
+          }
+        ]
+      }
+    }
+  }

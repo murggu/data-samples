@@ -1,0 +1,14 @@
+{
+    "status_code": 200,
+    "response": {
+      "value": [
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "type": "DataPipeline",
+          "displayName": "pip_rest_api_2",
+          "description": "",
+          "workspaceId": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  }
